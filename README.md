@@ -17,3 +17,7 @@ db.create_all()
 ctx.pop()
 
 exit()
+
+Deployment:
+
+https://youtube.com/watch?v=goToXTC96Co&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=13
