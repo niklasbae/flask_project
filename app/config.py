@@ -9,8 +9,8 @@ with open('app/config.json') as config_file:
 class Config:
     SECRET_KEY = config.get('SECRET_KEY')
 
-    # SQLALCHEMY_DATABASE_URI = config.get('SQLALCHEMY_DATABASE_URI')
-    SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
+    SQLALCHEMY_DATABASE_URI = config.get('SQLALCHEMY_DATABASE_URI')
+    #SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
 
     # SECRET_KEY = os.environ.get('SECRET_KEY')
     # SQLALCHEMY_DATABASE_URI = os.environ.get('SQLALCHEMY_DATABASE_URI')
