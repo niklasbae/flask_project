@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6627b1c-6208-4c10-a8ab-dcfcbd5534be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.rst">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="601">
-                <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -469,14 +467,19 @@
       <option name="presentableId" value="LOCAL−00039" />
       <updated>1566475184032</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL−00040" summary="updated readme">
+      <created>1567686078426</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1567686078426</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1177" width="1920" height="1129" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27050054" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27050054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,8 +489,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48642534" weight="0.43729553" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.64696485" visible="true" weight="0.3114754" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.48642534" visible="true" weight="0.43683702" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.64696485" weight="0.3114754" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51357466" side_tool="true" weight="0.43729553" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49945828" weight="0.3297975" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -532,7 +535,8 @@
     <MESSAGE value="postgres" />
     <MESSAGE value="reqs" />
     <MESSAGE value="minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
+    <MESSAGE value="updated readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/freeze.py" />
@@ -814,8 +818,8 @@
     <entry file="file://$PROJECT_DIR$/README.rst">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="601">
-            <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
